@@ -8,6 +8,6 @@ def oxford_comma(array)
     new_array = []
     new_array = array.pop()
     new_array2 = new_array.join
-    return array.join(", ") + ", and " + array.push(new_array)
+    return array.join(", ") + ", and " + array.push(new_array2)
   end
 end
