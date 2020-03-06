@@ -7,4 +7,5 @@ def oxford_comma(array)
 elsif array.lenth == 2
     new_array = array.split(",")
   return new_array
+  end
 end
